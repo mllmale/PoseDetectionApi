@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1em 0;
+    margin: 0 0 1em 0;
+}
+
+button {
+    margin: 0.5em;
+    padding: 1em 2em;
+    font-size: 1em;
+}
+
+#video {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #ddd;
+    margin-top: 1em;
+}
